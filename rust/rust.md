@@ -10,7 +10,7 @@ Windows下安装rust
 
 2. 安装[RUSTUP-INIT](https://www.rust-lang.org/learn/get-started)
 
-   ![](images\rust.png)
+   ![](images/rust.png)
 
 选择1默认安装，结束会显示安装完成。
 
@@ -32,7 +32,7 @@ Windows下安装rust
 
 rust-analyzer: 对rust的语法支持
 
-![](images\rust-analyzer.png)
+![](images/rust-analyzer.png)
 
 ### 1.3. 第一个程序
 
@@ -44,11 +44,13 @@ rust-analyzer: 对rust的语法支持
 
 目录结构如下：
 
-![](images\hello-world.png)
+![](images/hello-world.png)
 
 运行
 
 ```
 > cargo run
 ```
+
+# solana
 
